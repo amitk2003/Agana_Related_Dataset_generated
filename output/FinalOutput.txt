@@ -1,0 +1,53 @@
+
+--- TABLES ---
+[('workspaces',),
+ ('users',),
+ ('teams',),
+ ('team_memberships',),
+ ('projects',),
+ ('sections',),
+ ('tasks',),
+ ('comments',),
+ ('tags',),
+ ('task_tags',),
+ ('custom_field_definitions',),
+ ('custom_field_values',)]
+
+--- ROW COUNTS ---
+workspaces: 1
+users: 6000
+teams: 20
+team_memberships: 9023
+projects: 30
+sections: 120
+tasks: 6000
+comments: 4637
+tags: 10
+task_tags: 4475
+custom_field_definitions: 60
+custom_field_values: 9570
+
+--- SAMPLE TASKS ---
+[('d09bf2a4-c210-4a31-80cc-aaf4d4d5cdf0',
+  'Analyze Ad creatives',
+  '2026-01-28',
+  0),
+ ('a6565631-4a58-4514-a111-c308c91df1bf',
+  'Draft SEO keywords',
+  '2026-04-02',
+  0),
+ ('0b0b12bf-3c8d-4ae0-a2f3-7bb9dc56dc14',
+  'Analyze Email sequence',
+  '2026-03-13',
+  1),
+ ('d8c98823-1f09-40e1-b07e-b9b9fbd19956',
+  'Analyze Q2 campaign',
+  '2026-03-19',
+  1),
+ ('937fa228-3d2f-4c31-97bc-78f94b07f3c5',
+  'Publish Landing page',
+  '2026-01-07',
+  1)]
+
+--- ASSIGNEE INTEGRITY CHECK ---
+Broken assignee references: 0

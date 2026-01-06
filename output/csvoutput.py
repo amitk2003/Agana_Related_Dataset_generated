@@ -2,11 +2,11 @@ import sqlite3
 import pandas as pd
 import os
 
-conn = sqlite3.connect("asana_newdataset.sqlite")
+conn = sqlite3.connect("asana_Totaldataset.sqlite")
 
-df = pd.read_sql("SELECT * FROM tasks", conn)
+df = pd.read_sql("SELECT * FROM workspaces", conn)
 
-output_path = os.path.abspath("tasks_sample_full.csv")
+output_path = os.path.abspath("./FinalCSV/workspaces_sample_full.csv")
 df.to_csv(output_path, index=False)
 
 print("CSV saved at:", output_path)
