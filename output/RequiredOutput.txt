@@ -1,0 +1,50 @@
+
+--- TABLES ---
+[('workspaces',),
+ ('users',),
+ ('teams',),
+ ('team_memberships',),
+ ('projects',),
+ ('sections',),
+ ('tasks',),
+ ('comments',),
+ ('tags',),
+ ('task_tags',),
+ ('custom_field_definitions',),
+ ('custom_field_values',)]
+
+--- ROW COUNTS ---
+workspaces: 1
+users: 6000
+teams: 20
+team_memberships: 9018
+projects: 30
+sections: 120
+tasks: 6000
+comments: 0
+tags: 0
+task_tags: 0
+custom_field_definitions: 0
+custom_field_values: 0
+
+--- SAMPLE TASKS ---
+[('8a5ea67e-b91e-41cc-9d2d-3570b3077bb3',
+  'Investigate Database schema',
+  '2026-03-20',
+  0),
+ ('e3ec38da-7f65-42f7-bfce-58f29832b6ff', 'Fix Dashboard UI', None, 1),
+ ('9a207a22-db8e-472e-8b36-a1fd96b52503',
+  'Optimize Dashboard UI',
+  '2026-02-14',
+  0),
+ ('78635aa7-e456-419d-8e66-b6b4fef71f0a',
+  'Optimize Search API',
+  '2026-03-25',
+  1),
+ ('bc1040c0-780b-4f3c-9485-1469a9464886',
+  'Investigate Database schema',
+  '2026-03-25',
+  0)]
+
+--- ASSIGNEE INTEGRITY CHECK ---
+Broken assignee references: 0

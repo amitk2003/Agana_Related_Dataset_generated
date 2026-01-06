@@ -1,0 +1,31 @@
+project_id,workspace_id,team_id,name,description,created_at
+db75fa86-27fd-4c10-bc93-891581bac504,workspace-001,408b94af-26fc-457a-9c6b-5c7a896607e0,API v2 Migration,API v2 Migration planned for the current quarter.,2026-01-06 11:53:44
+e53a4d88-e9e0-4ccb-a54d-51696aec4901,workspace-001,ac05d1aa-38ce-4591-9211-85338caa123c,Compliance Readiness Project,Compliance Readiness Project planned for the current quarter.,2026-01-06 11:53:44
+cf33a566-43a6-410c-ad98-0a233fe88148,workspace-001,7990a73e-1ef5-4105-9009-41a7c3479ac9,Customer Onboarding Revamp,Customer Onboarding Revamp planned for the current quarter.,2026-01-06 11:53:44
+b5512a7e-5608-4313-8329-1ad2dd0f352d,workspace-001,33427477-d3fd-46ed-9f7d-75b8f152487b,Search Performance Improvements,Search Performance Improvements planned for the current quarter.,2026-01-06 11:53:44
+a3b3a052-509e-40b2-b978-367ea2b0b256,workspace-001,7990a73e-1ef5-4105-9009-41a7c3479ac9,Customer Support Workflow Cleanup,Customer Support Workflow Cleanup planned for the current quarter.,2026-01-06 11:53:44
+ed7ca137-d9dc-42e5-8987-ea242ccd2812,workspace-001,569940f8-de36-4521-9109-2255c6eaef37,Search Performance Improvements,Search Performance Improvements planned for the current quarter.,2026-01-06 11:53:44
+a8095f7e-6f9a-43d4-abba-70fd0c5e9fb4,workspace-001,384bf960-2d59-4142-84c9-3bb20706185f,SEO Optimization Initiative,SEO Optimization Initiative planned for the current quarter.,2026-01-06 11:53:44
+1465c59b-3d37-4a94-9153-c2a73aa1ab43,workspace-001,93d51571-522d-4195-b83d-13d88c8078cd,API v2 Migration,API v2 Migration planned for the current quarter.,2026-01-06 11:53:44
+ca3f1f38-08c3-427d-b856-47890c25c18e,workspace-001,f74e7a41-6c7f-4536-98e0-d7af48249e13,API v2 Migration,API v2 Migration planned for the current quarter.,2026-01-06 11:53:44
+12dbfc72-6bfc-4ad9-b4b6-730c946cfabe,workspace-001,f74e7a41-6c7f-4536-98e0-d7af48249e13,Mobile App Stability Sprint,Mobile App Stability Sprint planned for the current quarter.,2026-01-06 11:53:44
+34c61bea-00fa-49db-92be-55ac435c9f90,workspace-001,79e5a53e-c78d-48fb-a773-709405336cad,Auth Platform Refactor,Auth Platform Refactor planned for the current quarter.,2026-01-06 11:53:44
+861195e0-10d9-41af-9ed3-9026e3b39045,workspace-001,569940f8-de36-4521-9109-2255c6eaef37,Payments Infrastructure Upgrade,Payments Infrastructure Upgrade planned for the current quarter.,2026-01-06 11:53:44
+6dfb8fee-9b7f-4ad3-93d8-f2baaa247a7c,workspace-001,7990a73e-1ef5-4105-9009-41a7c3479ac9,SEO Optimization Initiative,SEO Optimization Initiative planned for the current quarter.,2026-01-06 11:53:44
+112e279d-3e43-4af0-9c0b-d31b419cfc70,workspace-001,ac05d1aa-38ce-4591-9211-85338caa123c,API v2 Migration,API v2 Migration planned for the current quarter.,2026-01-06 11:53:44
+00d2c50b-b52a-46be-8629-660bde2073aa,workspace-001,57506191-3db4-4d28-b5ba-40082a5c6315,Email Marketing Experiments,Email Marketing Experiments planned for the current quarter.,2026-01-06 11:53:44
+56692ed3-578c-42b7-92a8-ea280c4e1547,workspace-001,8ec2e93c-5345-4550-a4e8-68c789e360df,Search Performance Improvements,Search Performance Improvements planned for the current quarter.,2026-01-06 11:53:44
+924569fa-8b3f-4e22-9ccd-7b4b4d553bb4,workspace-001,162a6621-2576-4c3f-a316-104691d19870,Customer Onboarding Revamp,Customer Onboarding Revamp planned for the current quarter.,2026-01-06 11:53:44
+386d3b9e-e8c2-4e3d-9db3-852480055e1b,workspace-001,ac05d1aa-38ce-4591-9211-85338caa123c,Payments Infrastructure Upgrade,Payments Infrastructure Upgrade planned for the current quarter.,2026-01-06 11:53:44
+460500d5-514f-4a42-930c-2340960259dc,workspace-001,79e5a53e-c78d-48fb-a773-709405336cad,Brand Awareness Campaign,Brand Awareness Campaign planned for the current quarter.,2026-01-06 11:53:44
+f082f608-51d0-4cb3-9e29-74793892c65c,workspace-001,8ec2e93c-5345-4550-a4e8-68c789e360df,Email Marketing Experiments,Email Marketing Experiments planned for the current quarter.,2026-01-06 11:53:44
+c06c8f4d-26e5-41bd-86e8-351bb6d4358f,workspace-001,f74e7a41-6c7f-4536-98e0-d7af48249e13,Mobile App Stability Sprint,Mobile App Stability Sprint planned for the current quarter.,2026-01-06 11:53:44
+8cf5bb13-eed1-4204-b339-7ff1070586ba,workspace-001,070ffdbb-f90a-4c7d-aee8-79f5dbd19bf3,Q2 Product Launch Campaign,Q2 Product Launch Campaign planned for the current quarter.,2026-01-06 11:53:44
+9ac16969-8886-4513-ab75-12b1a4531acc,workspace-001,8ec2e93c-5345-4550-a4e8-68c789e360df,Mobile App Stability Sprint,Mobile App Stability Sprint planned for the current quarter.,2026-01-06 11:53:44
+58ce40e8-87f7-4384-aabd-f0af377f06f8,workspace-001,ac05d1aa-38ce-4591-9211-85338caa123c,Internal Tooling Improvements,Internal Tooling Improvements planned for the current quarter.,2026-01-06 11:53:44
+b337dbc1-1606-4390-baa0-3e5433524e2a,workspace-001,569940f8-de36-4521-9109-2255c6eaef37,Auth Platform Refactor,Auth Platform Refactor planned for the current quarter.,2026-01-06 11:53:44
+845ad8d9-7514-45c1-912b-ca481a0a9233,workspace-001,93d51571-522d-4195-b83d-13d88c8078cd,Customer Support Workflow Cleanup,Customer Support Workflow Cleanup planned for the current quarter.,2026-01-06 11:53:44
+026e35e7-3cc7-4f22-a773-3c078bdbb135,workspace-001,384bf960-2d59-4142-84c9-3bb20706185f,Payments Infrastructure Upgrade,Payments Infrastructure Upgrade planned for the current quarter.,2026-01-06 11:53:44
+681674ab-e44c-4464-bb9f-c4e3cc24178d,workspace-001,79e5a53e-c78d-48fb-a773-709405336cad,Brand Awareness Campaign,Brand Awareness Campaign planned for the current quarter.,2026-01-06 11:53:44
+540a13ef-5612-423f-85cc-e013e05b0d8d,workspace-001,ac05d1aa-38ce-4591-9211-85338caa123c,Compliance Readiness Project,Compliance Readiness Project planned for the current quarter.,2026-01-06 11:53:44
+64bef440-b23e-425b-a9c3-1ff88dc9b07e,workspace-001,8ec2e93c-5345-4550-a4e8-68c789e360df,Brand Awareness Campaign,Brand Awareness Campaign planned for the current quarter.,2026-01-06 11:53:44
